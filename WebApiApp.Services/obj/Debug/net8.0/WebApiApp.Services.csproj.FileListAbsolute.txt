@@ -1,0 +1,34 @@
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Services.deps.json
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Services.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Services.pdb
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.ProjectDB.pdb
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.csproj.AssemblyReference.cache
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.AssemblyInfoInputs.cache
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.AssemblyInfo.cs
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiAp.F792A2A1.Up2Date
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\refint\WebApiApp.Services.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.pdb
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\ref\WebApiApp.Services.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Services.deps.json
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Services.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Services.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\bin\Debug\net8.0\WebApiApp.ProjectDB.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.csproj.AssemblyReference.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.AssemblyInfoInputs.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.AssemblyInfo.cs
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiAp.F792A2A1.Up2Date
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\refint\WebApiApp.Services.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\WebApiApp.Services.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.Services\obj\Debug\net8.0\ref\WebApiApp.Services.dll

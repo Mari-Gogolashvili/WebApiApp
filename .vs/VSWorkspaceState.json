@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApiApp",
+    "\\webApiApp.Domain\\Models",
+    "\\WebApiApp.Services\\Abstractions",
+    "\\WebApiApp.Services\\Implementations",
+    "\\WebApiApp\\Controllers"
+  ],
+  "SelectedNode": "\\WebApiApp\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,22 @@
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\bin\Debug\net8.0\WebApiApp.Domain.deps.json
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\bin\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\bin\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.AssemblyInfo.cs
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\refint\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\ref\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\bin\Debug\net8.0\WebApiApp.Domain.deps.json
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\bin\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\bin\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.AssemblyInfo.cs
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\refint\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\webApiApp.Domain\obj\Debug\net8.0\ref\WebApiApp.Domain.dll

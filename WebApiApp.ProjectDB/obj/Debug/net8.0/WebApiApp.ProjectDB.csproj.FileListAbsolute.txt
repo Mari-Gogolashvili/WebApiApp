@@ -1,0 +1,34 @@
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.deps.json
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.runtimeconfig.json
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.pdb
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.csproj.AssemblyReference.cache
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.AssemblyInfoInputs.cache
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.AssemblyInfo.cs
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiAp.932398DB.Up2Date
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\refint\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.pdb
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.genruntimeconfig.cache
+C:\Users\gogol\Desktop\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\ref\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.deps.json
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.runtimeconfig.json
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.ProjectDB.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.Domain.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\bin\Debug\net8.0\WebApiApp.Domain.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.csproj.AssemblyReference.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.AssemblyInfoInputs.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.AssemblyInfo.cs
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiAp.932398DB.Up2Date
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\refint\WebApiApp.ProjectDB.dll
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.pdb
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\WebApiApp.ProjectDB.genruntimeconfig.cache
+C:\Users\gogol\Desktop\everything\C# ---- .Net\WebApiSolution\WebApiApp.ProjectDB\obj\Debug\net8.0\ref\WebApiApp.ProjectDB.dll
